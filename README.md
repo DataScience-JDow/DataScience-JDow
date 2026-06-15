@@ -27,6 +27,7 @@ Some larger full-stack projects are private because they contain business, finan
 
 ## Links
 
-- Portfolio: [personal website](https://github.com/DataScience-JDow/personal_website)
+- Portfolio: [jeremydowdy.dev](https://jeremydowdy.dev)
+- Portfolio source: [personal_website](https://github.com/DataScience-JDow/personal_website)
 - LinkedIn: [jeremy-dowdy](https://www.linkedin.com/in/jeremy-dowdy/)
 - Email: [Jeremydowdy76@gmail.com](mailto:Jeremydowdy76@gmail.com)
